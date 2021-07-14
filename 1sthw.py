@@ -14,4 +14,4 @@ def password_validator():
             print("Password Worked!")
         else:
             print("Password Invalid Suckaaaaaaaaaaaaaaaaa!")
-            password = input("This ass gets a second chance:")
+            password = input("This kid gets a second chance:")
